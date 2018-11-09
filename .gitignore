@@ -1,0 +1,16 @@
+.DS_Store
+.thumbs.db
+.env
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+node_modules/
+dist/
+npm-debug.log*
+cordova/platforms
+cordova/plugins
+node_modules/
+yarn-error.log
